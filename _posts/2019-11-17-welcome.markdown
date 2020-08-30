@@ -1,0 +1,21 @@
+---
+layout: single
+title: "Welcome"
+date: 2019-11-17 13:02:05 +0100
+categories:
+  - blog
+  - jekyll
+---
+Welcome!
+
+A blog? In 2020? abgefaerbt?
+<!--more-->
+My surname is Färber (Dyer in english) and thus i use "abgefaerbt" in
+relation to things i share as my word for "derived".
+
+I learned a lot from "the internet" and thus would like
+to give something back. Started the blog with [Jekyll](//jekyllrb.com),
+[Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) as a theme and
+no longer [Discourse](https://discourse.org) for comments.
+
+The blog will be about my blogging experience, the blog itself and other things that come to my mind.
