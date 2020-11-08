@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Andreas Färber"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Some average joe"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
