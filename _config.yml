@@ -22,9 +22,6 @@ github_username: andreasfaerber
 minimal_mistakes_skin: default
 search: true
 
-analytics:
-  provider: "custom"
-
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
