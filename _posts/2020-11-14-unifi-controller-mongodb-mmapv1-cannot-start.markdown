@@ -14,7 +14,7 @@ categories:
 ---
 While upgrading to a new raspberry pi 4 B i also moved my dockerized unifi-controller to the new raspberry by simple rsync'ing the
 data directory and the docker-compose file i was using. After starting it i wondered why it takes so long for it to come up - and it
-never came up (nothing listening on the http port for the unifi-controller). Here's why (from the mongo db server log of the container):
+never came up (nothing listening on the http port for the unifi-controller). Here's why (from the mongo db server log of the container, "/config/logs/mongod.log" where /config is the bind mounted directory for the docker container):
 
 ```
 2020-11-14T13:13:31.390+0000 I CONTROL  [main] ***** SERVER RESTARTED *****
