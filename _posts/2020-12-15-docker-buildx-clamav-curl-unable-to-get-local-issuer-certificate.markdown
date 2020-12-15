@@ -29,4 +29,4 @@ to properly build the arm images via a standard buildx pipeline. The job failed 
 ```
 
 Even though update-ca-certificates was run before the try to get the database i was not able to easily identify the issue. Well, in case
-someone else wonders what the issue is and how to fix: Running *c_rehash* before running the specific command solved the issue.
+someone else wonders what the issue is and how to fix: Running **c_rehash** before running the specific command solved the issue.
