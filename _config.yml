@@ -21,6 +21,7 @@ twitter_username: username
 github_username: andreasfaerber
 minimal_mistakes_skin: default
 search: true
+repository: andreasfaerber/andreasfaerber.github.io
 
 # Build settings
 markdown: kramdown
@@ -54,6 +55,18 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
+#staticman_url: https://abgefaerbt-staticman.herokuapp.com/v2/entry/andreasfaerber/andreasfaerber.github.io/master/comments
+
+comments:
+  provider: "staticman_v2"
+  staticman:
+    branch: "master"
+    endpoint: https://abgefaerbt-staticman.herokuapp.com/v3/entry/github/
+
+reCaptcha:
+  siteKey: 6LcWstQUAAAAALoGBcmKsgCFbMQqkiGiEt361nK1
+  secret: d2NevZvowN2l2ogygmhyOuuuyzQNwGo4VqVkwZrtU6afSFbZPvhiwAgqGbSaTVuaC64TQ5odBnf8GVhyaEU59Xyrnerp+ORPTSIB/ov4tdKWf8qLOh4+VwOiUpJbKqXC8flt8dhACF7yaFVym76/LFoBy0ENPfzqtwnr4SYWHbC99vmQ0O/MxgvlpXCoXdWV71m3rXYtMIcRKgkyLHrOm342yqBbhpqgATfo89a/X8M7mwxI6LBm8h0RQ/gNtxRkxaBxiM2eYN2e1bNbxGYO8xp9hgLiJZJ+4ld8TVabQWR8sJhXc4j0zema+RNssCoV8RehLcHUZ64Gr61CHPFufmw4GIR7rfGuWCIcO+rEHUnWYDqNqx/gG3yKceKwzDhfqFTAT/dLar+9/0rYHv99Y53gUqdZUDy7WJ+KoUSYIyy1FsLukrlxxgT9h/uthNDedbId+c1ws0vft5jXakkk6XbgWe0s3Tsdqzxa9fK5Bz2SGOb9YpfI2aKBuVZObTytMarMBFDQ0nzeM4cLddK3kOYWAPUJ4bnwhnNmijW2CHZGthdgyoX7uHjVBREDVXFc6klzcV/5M/ODhr2OvWKjcuzLOUu42sfxWbgIagtLwJSKjB6Utt0+3wt8e8dCZ6os5bXkBx5QBiXnWT1Y/RK1+/7vt0/BeE6UmM6dqVSu6qE=
 
 author:
   name   : "Andreas Färber"
