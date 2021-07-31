@@ -11,6 +11,7 @@ categories:
   - model3
   - fragen
   - antworten
+  - erfahrungsbericht
 ---
 Anbei der zeitliche Ablauf zur Kommunikation und des Fortschritts bezüglich des Tesla Model 3 Abos bei finn.auto (Wenn nicht anders vermerkt, dann kam das alles per Email):
 

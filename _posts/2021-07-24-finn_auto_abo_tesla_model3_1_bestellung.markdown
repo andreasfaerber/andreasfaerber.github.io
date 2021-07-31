@@ -11,6 +11,7 @@ categories:
   - finn
   - tesla
   - model3
+  - erfahrungsbericht
 ---
 Mal was etwas anderes als IT-Kram. Autos (gibt ja noch nicht genug darüber). Da ich im Netz bisher relativ wenig zu einem Auto
 Abo über finn.auto gefunden habe, noch dazu über das Abo eines Teslas (Kann man die App nutzen? Worauf muss man achten?) möchte

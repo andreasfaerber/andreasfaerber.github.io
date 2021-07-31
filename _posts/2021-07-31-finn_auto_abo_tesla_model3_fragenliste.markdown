@@ -11,6 +11,7 @@ categories:
   - model3
   - fragen
   - antworten
+  - erfahrungsbericht
 ---
 Hier führe ich die Fragen und (meine) Antworten zum finn.auto Abo im Allgemeinen sowie zum Abo des Tesla Model 3 im Speziellen auf.
 

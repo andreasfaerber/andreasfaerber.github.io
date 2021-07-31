@@ -13,6 +13,7 @@ categories:
   - model3
   - santander consumer leasing
   - leasing
+  - erfahrungsbericht
 ---
 Im Nachgang zu der Bestellung bei finn.auto wurde mir dann ein Leasingvertrag der Santander Consumer Leasing GmbH zugeschickt.
 Zunächst war ich ein wenig irritiert, da ich das nicht wirklich auf dem Zettel hatte. Nach Durchsicht der Unterlagen und Webseiten

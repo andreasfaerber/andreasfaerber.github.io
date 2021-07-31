@@ -11,6 +11,7 @@ categories:
   - finn
   - tesla
   - model3
+  - erfahrungsbericht
 ---
 Heute ereilte mich die gute Nachricht, dass mein Tesla in den Startlöchern steht. Dies beinhaltet auch die Information, dass
 nach Auslieferung des Teslas an mich ich einen Tag später einen Tesla Account mit meiner finn Email-Adresse anlegen kann und
