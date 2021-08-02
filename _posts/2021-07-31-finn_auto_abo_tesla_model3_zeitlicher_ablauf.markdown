@@ -25,5 +25,5 @@ Anbei der zeitliche Ablauf zur Kommunikation und des Fortschritts bezüglich des
 - 28.07.2021, 14:03 Uhr - finn.auto: Information über Einrichtung SEPA Lastschriftmandat von finn.auto
 - 29.07.2021, 00:11 Uhr - finn.auto: Ihr Tesla steht in den Startlöchern: Hinweis, dass der Tesla in den nächsten Tagen (Termin 12.08.2021) geliefert wird. Hinweis darauf, dass einen Tag _nach_ Lieferung ein Tesla-Account mit der Email-Adresse welche bei finn.auto hinterlegt wurde angelegt werden kann und der Tesla dieser Email-Adresse dann bereits zugeordnet ist. Link zu Einführungsvideos zum Tesla Model 3 (auf der Tesla Homepage).
 - 29.07.2021, 10:18 Uhr - finn.auto: Update Bestellstatus: Info über Bearbeitung und Hinweis auf den Chipmangel in der Autoindustrie. Sollte der Tesla davon betroffen sein, so erfolgt aktiv eine Information
-- 02.08.2021, 10:18 Uhr - finn.auto: Update Bestellstatus: Fahrzeug ist registriert, Zulassungsdatum 02.08.2021 und Kennzeichen als Information hinterlergt
+- 02.08.2021, 22:27 Uhr - finn.auto: Update Bestellstatus: Fahrzeug ist registriert, Zulassungsdatum 02.08.2021 und Kennzeichen als Information hinterlergt
 
