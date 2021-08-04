@@ -27,4 +27,5 @@ Anbei der zeitliche Ablauf zur Kommunikation und des Fortschritts bezüglich des
 - 29.07.2021, 10:18 Uhr - finn.auto: Update Bestellstatus: Info über Bearbeitung und Hinweis auf den Chipmangel in der Autoindustrie. Sollte der Tesla davon betroffen sein, so erfolgt aktiv eine Information
 - 02.08.2021 finn.auto: Update Bestellstatus: Fahrzeug ist registriert, Zulassungsdatum 02.08.2021 und Kennzeichen als Information hinterlergt
 - 03.08.2021 finn.auto: Update Bestellstatus: Auslieferung ist in Vorbereitung
+- 04.08.2021 16:00 Uhr - finn.auto: Ihr Lieferdatum wurde bestätigt
 
