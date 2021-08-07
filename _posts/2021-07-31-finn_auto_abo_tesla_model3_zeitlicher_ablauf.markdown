@@ -3,6 +3,8 @@ title: "finn.auto Abo, Tesla Model 3: zeitlicher Ablauf"
 layout: single
 classes: wide
 date: 2021-07-31 06:21 +100
+sidebar:
+  nav: finn_tesla
 categories:
   - autoabo
 tags:

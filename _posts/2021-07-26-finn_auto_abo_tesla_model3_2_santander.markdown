@@ -3,6 +3,8 @@ title: "finn.auto Abo, Tesla Model 3, Teil 2: Leasingvertrag mit Santander Consu
 layout: single
 classes: wide
 date: 2021-07-26 23:22 +100
+sidebar:
+  nav: finn_tesla
 categories:
   - autoabo
 tags:

@@ -1,3 +1,4 @@
+# main navigation
 main:
   - title: "Posts"
     url: /posts/
@@ -7,3 +8,18 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+
+# finn.auto Tesla Abo navigation
+finn_tesla:
+  - title: "finn.auto Abo, Tesla Model 3, Teil 1: Bestellung bei finn.auto"
+    url: /autoabo/finn_auto_abo_tesla_model3_1_bestellung/
+  - title: "finn.auto Abo, Tesla Model 3, Teil 2: Leasingvertrag mit Santander Consumer Leasing"
+    url: /autoabo/finn_auto_abo_tesla_model3_2_santander/
+  - title: "finn.auto Abo, Tesla Model 3, Teil 3: Ihr Tesla steht in den Startlöchern"
+    url: /autoabo/finn_auto_abo_tesla_model3_3_in_den_startloechern/
+  - title: "finn.auto Abo, Tesla Model 3, Teil 4: Ihr Lieferdatum wurde bestätigt"
+    url: /autoabo/finn_auto_abo_tesla_model3_4_ihr_lieferdatum_wurde_bestaetigt/
+  - title: "finn.auto Abo, Tesla Model 3: Fragen und Antworten"
+    url: /autoabo/finn_auto_abo_tesla_model3_fragenliste/
+  - title: "finn.auto Abo, Tesla Model 3: zeitlicher Ablauf"
+    url: /autoabo/finn_auto_abo_tesla_model3_zeitlicher_ablauf/

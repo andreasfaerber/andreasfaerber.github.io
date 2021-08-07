@@ -3,6 +3,8 @@ title: "finn.auto Abo, Tesla Model 3, Teil 3: Ihr Tesla steht in den Startlöche
 layout: single
 classes: wide
 date: 2021-07-29 19:32 +100
+sidebar:
+  nav: finn_tesla
 categories:
   - autoabo
 tags:
