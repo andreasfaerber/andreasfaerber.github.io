@@ -11,15 +11,15 @@ main:
 
 # finn.auto Tesla Abo navigation
 finn_tesla:
-  - title: "finn.auto Abo, Tesla Model 3, Teil 1: Bestellung bei finn.auto"
-    url: /autoabo/finn_auto_abo_tesla_model3_1_bestellung/
-  - title: "finn.auto Abo, Tesla Model 3, Teil 2: Leasingvertrag mit Santander Consumer Leasing"
-    url: /autoabo/finn_auto_abo_tesla_model3_2_santander/
-  - title: "finn.auto Abo, Tesla Model 3, Teil 3: Ihr Tesla steht in den Startlöchern"
-    url: /autoabo/finn_auto_abo_tesla_model3_3_in_den_startloechern/
-  - title: "finn.auto Abo, Tesla Model 3, Teil 4: Ihr Lieferdatum wurde bestätigt"
-    url: /autoabo/finn_auto_abo_tesla_model3_4_ihr_lieferdatum_wurde_bestaetigt/
-  - title: "finn.auto Abo, Tesla Model 3: Fragen und Antworten"
-    url: /autoabo/finn_auto_abo_tesla_model3_fragenliste/
-  - title: "finn.auto Abo, Tesla Model 3: zeitlicher Ablauf"
-    url: /autoabo/finn_auto_abo_tesla_model3_zeitlicher_ablauf/
+  - title: "Teil 1: Bestellung bei finn.auto"
+    url: /autoabo/2021/07/24/finn-auto-abo-tesla-bestellung.html
+  - title: "Teil 2: Leasingvertrag mit Santander Consumer Leasing"
+    url: autoabo/2021/07/26/finn-auto-abo-tesla-santander.html
+  - title: "Teil 3: In den Startlöchern"
+    url: autoabo/2021/07/29/finn-auto-abo-tesla-startloecher.html
+  - title: "Teil 4: Lieferdatum bestätigt"
+    url: /autoabo/2021/08/04/finn-auto-abo-tesla-lieferdatum.html
+  - title: "Fragen und Antworten"
+    url: /autoabo/2021/07/31/finn-auto-abo-tesla-fragenliste.html
+  - title: "Zeitlicher Ablauf"
+    url: /autoabo/2021/07/31/finn-auto-abo-tesla-zeitlicher-ablauf.html
