@@ -55,7 +55,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-seo-tag
 
 #staticman_url: https://abgefaerbt-staticman.herokuapp.com/v2/entry/andreasfaerber/andreasfaerber.github.io/master/comments
 
