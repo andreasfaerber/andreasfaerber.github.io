@@ -5,8 +5,10 @@ classes: wide
 date: 2021-07-31 06:10 +100
 categories:
   - autoabo
+tags:
+  - auto
+  - autoabo
   - finn.auto
-  - finn
   - tesla
   - model3
   - fragen

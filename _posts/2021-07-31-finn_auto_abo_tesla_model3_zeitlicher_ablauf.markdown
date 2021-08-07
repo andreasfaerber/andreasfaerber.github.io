@@ -5,13 +5,14 @@ classes: wide
 date: 2021-07-31 06:21 +100
 categories:
   - autoabo
+tags:
+  - autoabo
+  - auto
   - finn.auto
-  - finn
   - tesla
   - model3
-  - fragen
-  - antworten
   - erfahrungsbericht
+  - historie
 ---
 Anbei der zeitliche Ablauf zur Kommunikation und des Fortschritts bezüglich des Tesla Model 3 Abos bei finn.auto (Wenn nicht anders vermerkt, dann kam das alles per Email):
 

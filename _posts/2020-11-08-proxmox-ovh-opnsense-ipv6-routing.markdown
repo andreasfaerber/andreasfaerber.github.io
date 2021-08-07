@@ -5,6 +5,9 @@ classes: wide
 date: 2020-11-08 09:26 +100
 toc: true
 categories:
+  - proxmox
+tags:
+  - proxmox
   - opnsense
   - ovh
   - soyoustart

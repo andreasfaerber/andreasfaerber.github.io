@@ -5,10 +5,10 @@ classes: wide
 date: 2021-07-26 23:22 +100
 categories:
   - autoabo
+tags:
+  - autoabo
   - auto
-  - abo
   - finn.auto
-  - finn
   - tesla
   - model3
   - santander consumer leasing

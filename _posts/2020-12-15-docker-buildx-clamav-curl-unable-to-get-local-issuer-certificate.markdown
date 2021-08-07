@@ -4,6 +4,8 @@ layout: single
 classes: wide
 date: 2020-12-15 20:39 +100
 categories:
+  - docker
+tags:
   - troubleshooting
   - docker
   - buildx

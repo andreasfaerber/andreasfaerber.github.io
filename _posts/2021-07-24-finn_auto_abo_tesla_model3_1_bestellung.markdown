@@ -5,10 +5,10 @@ classes: wide
 date: 2021-07-24 14:44 +100
 categories:
   - autoabo
+tags:
   - auto
-  - abo
+  - autoabo
   - finn.auto
-  - finn
   - tesla
   - model3
   - erfahrungsbericht

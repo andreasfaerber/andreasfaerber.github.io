@@ -4,6 +4,9 @@ layout: single
 classes: wide
 date: 2020-11-14 14:13 +100
 categories:
+  - unifi
+tags:
+  - unifi
   - troubleshooting
   - unifi
   - unifi-controller

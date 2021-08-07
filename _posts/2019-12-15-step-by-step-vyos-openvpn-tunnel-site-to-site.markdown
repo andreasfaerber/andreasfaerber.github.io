@@ -5,6 +5,8 @@ classes: wide
 date: 2019-12-15 18:26 +100
 categories:
   - vyos
+tags:
+  - vyos
   - openvpn
   - step-by-step
 ---
