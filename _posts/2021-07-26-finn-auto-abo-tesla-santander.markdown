@@ -1,5 +1,5 @@
 ---
-title: "finn.auto Abo, Tesla Model 3, Teil 2: Leasingvertrag mit Santander Consumer Leasing"
+title: "finn.auto Abo Erfahrungen, Tesla Model 3, Teil 2: Leasingvertrag mit Santander Consumer Leasing"
 layout: single
 classes: wide
 date: 2021-07-26 23:22 +100
@@ -16,6 +16,7 @@ tags:
   - santander consumer leasing
   - leasing
   - erfahrungsbericht
+  - erfahrungen
 ---
 Im Nachgang zu der Bestellung bei finn.auto wurde mir dann ein Leasingvertrag der Santander Consumer Leasing GmbH zugeschickt.
 Zunächst war ich ein wenig irritiert, da ich das nicht wirklich auf dem Zettel hatte. Nach Durchsicht der Unterlagen und Webseiten

@@ -1,5 +1,5 @@
 ---
-title: "finn.auto Abo, Tesla Model 3, Teil 1: Bestellung bei finn.auto"
+title: "finn.auto Abo Erfahrungen, Tesla Model 3, Teil 1: Bestellung bei finn.auto"
 layout: single
 classes: wide
 date: 2021-07-24 14:44 +100
@@ -14,6 +14,7 @@ tags:
   - tesla
   - model3
   - erfahrungsbericht
+  - erfahrungen
 ---
 Mal was etwas anderes als IT-Kram. Autos (gibt ja noch nicht genug darüber). Da ich im Netz bisher relativ wenig zu einem Auto
 Abo über finn.auto gefunden habe, noch dazu über das Abo eines Teslas (Kann man die App nutzen? Worauf muss man achten?) möchte

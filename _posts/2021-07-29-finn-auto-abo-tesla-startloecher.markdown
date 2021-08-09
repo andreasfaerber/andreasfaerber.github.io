@@ -1,5 +1,5 @@
 ---
-title: "finn.auto Abo, Tesla Model 3, Teil 3: Ihr Tesla steht in den Startlöchern"
+title: "finn.auto Abo Erfahrungen, Tesla Model 3, Teil 3: Ihr Tesla steht in den Startlöchern"
 layout: single
 classes: wide
 date: 2021-07-29 19:32 +100
@@ -14,6 +14,7 @@ tags:
   - tesla
   - model3
   - erfahrungsbericht
+  - erfahrungen
 ---
 Heute ereilte mich die gute Nachricht, dass mein Tesla in den Startlöchern steht. Dies beinhaltet auch die Information, dass
 nach Auslieferung des Teslas an mich ich einen Tag später einen Tesla Account mit meiner finn Email-Adresse anlegen kann und

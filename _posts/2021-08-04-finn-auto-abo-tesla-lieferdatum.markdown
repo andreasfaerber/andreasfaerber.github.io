@@ -1,5 +1,5 @@
 ---
-title: "finn.auto Abo, Tesla Model 3, Teil 4: Ihr Lieferdatum wurde bestätigt"
+title: "finn.auto Abo Erfahrungen, Tesla Model 3, Teil 4: Ihr Lieferdatum wurde bestätigt"
 layout: single
 classes: wide
 date: 2021-08-04 20:05 +100
