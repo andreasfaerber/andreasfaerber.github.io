@@ -232,4 +232,6 @@ Restart everything with ```docker-compose down && docker-compose up -d```.
 
 # Voila #
 
+Running behind my reverse proxy:
+
 ![Running pixelfed](/assets/images/2022-05-01-pixelfed-screenshot.png)
