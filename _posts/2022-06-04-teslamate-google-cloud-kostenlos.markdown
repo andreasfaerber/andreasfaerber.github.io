@@ -114,9 +114,7 @@ sudo apt update
 sudo apt -y dist-upgrade
 ```
 
-Ausgaben auf der Konsole:
-
-
+{% capture details %}
 ```console
 andreas_faerber@docker-teslamate:~$ sudo apt update
 Get:1 http://packages.cloud.google.com/apt cloud-sdk-bullseye InRelease [6778 B]
@@ -193,8 +191,12 @@ Processing triggers for man-db (2.9.4-2) ...
 Processing triggers for libc-bin (2.31-13+deb11u3) ...
 andreas_faerber@docker-teslamate:~$ 
 ```
+{% endcapture %}
+{% capture summary %}Ausgaben auf der Konsole:{% endcapture %}{% include details.html %}
+(auf das Dreieck klicken um die Ausführung auf der Console zu sehen)
+  
 
-Installation Docker:
+**Docker Installation:**
 
 Genutzte Kommandos (Immer jeweils genau eine Zeile kopieren und auf der Konsole einfügen):
 
@@ -216,9 +218,7 @@ sudo apt install docker-ce docker-ce-cli containerd.io docker-compose-plugin
 sudo docker run hello-world
 
 ```
-
-Ausgaben auf der Konsole:
-
+{% capture details %}
 ```bash
 andreas_faerber@docker-teslamate:~$ sudo apt-get remove docker docker-engine docker.io containerd runc
 Reading package lists... Done
@@ -387,15 +387,17 @@ Processing triggers for man-db (2.9.4-2) ...
 Processing triggers for libc-bin (2.31-13+deb11u3) ...
 andreas_faerber@docker-teslamate:~$ 
 ```
+{% endcapture %}
+{% capture summary %}Ausgaben auf der Konsole:{% endcapture %}{% include details.html %}
+(auf das Dreieck klicken um die Ausführung auf der Console zu sehen)
 
-Testen ob die Docker Installation erfolgreich war:
+**Testen ob die Docker Installation erfolgreich war:**
 
 ```bash
 sudo docker run hello-world
 ```
 
-Ausgaben auf der Konsole:
-
+{% capture details %}
 ```bash
 andreas_faerber@docker-teslamate:~$ sudo docker run hello-world
 Unable to find image 'hello-world:latest' locally
@@ -427,12 +429,14 @@ For more examples and ideas, visit:
 
 andreas_faerber@docker-teslamate:~$ 
 ```
+{% endcapture %}
+{% capture summary %}Ausgaben auf der Konsole:{% endcapture %}{% include details.html %}
+(auf das Dreieck klicken um die Ausführung auf der Console zu sehen)
+
 
 Wenn ihr eine ähnliche Ausgabe bekommt, dann sieht bis hier alles gut aus.
 
 # docker-compose installieren #
-
-
 
 Benutzte Kommandos:
 
@@ -446,8 +450,7 @@ sudo systemctl restart docker
 sudo docker ps
 ```
 
-Ausgaben auf der Konsole:
-
+{% capture details %}
 ```bash
 andreas_faerber@docker-teslamate:~$ sudo apt install docker-compose
 Reading package lists... Done
@@ -729,8 +732,10 @@ andreas_faerber@docker-teslamate:~$
 andreas_faerber@docker-teslamate:~$ sudo docker ps
 CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
 andreas_faerber@docker-teslamate:~$ 
-
 ```
+{% endcapture %}
+{% capture summary %}Ausgaben auf der Konsole:{% endcapture %}{% include details.html %}
+(auf das Dreieck klicken um die Ausführung auf der Console zu sehen)
 
 # Teslamate installieren und konfigurieren #
 
@@ -766,7 +771,7 @@ sudo docker-compose up -d
 
 ```
 
-Ausgaben auf der Konsole:
+{% capture details %}
 
 ```bash
 andreas_faerber@docker-teslamate:~$ mkdir docker-teslamate
@@ -797,6 +802,9 @@ andreas_faerber@docker-teslamate:~/docker-teslamate$ curl -o ~/docker-teslamate/
 100  8795  100  8795    0     0   117k      0 --:--:-- --:--:-- --:--:--  122k
 andreas_faerber@docker-teslamate:~/docker-teslamate$ 
 ```
+{% endcapture %}
+{% capture summary %}Ausgaben auf der Konsole:{% endcapture %}{% include details.html %}
+(auf das Dreieck klicken um die Ausführung auf der Console zu sehen)
 
 Anschließend mit muss die Datei ".env" editiert werden. Ohne vi-Kenntnisse ist wahrscheinlich nano der einfachste Einsteiger-Editor. Also in der Konsole:
 
