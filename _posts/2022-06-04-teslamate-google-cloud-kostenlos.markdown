@@ -114,10 +114,10 @@ sudo apt update
 sudo apt -y dist-upgrade
 ```
 
-Durchführung:
+Ausgaben auf der Konsole:
 
 
-```bash
+```console
 andreas_faerber@docker-teslamate:~$ sudo apt update
 Get:1 http://packages.cloud.google.com/apt cloud-sdk-bullseye InRelease [6778 B]
 Hit:2 http://deb.debian.org/debian bullseye InRelease                                                   
@@ -216,6 +216,8 @@ sudo apt install docker-ce docker-ce-cli containerd.io docker-compose-plugin
 sudo docker run hello-world
 
 ```
+
+Ausgaben auf der Konsole:
 
 ```bash
 andreas_faerber@docker-teslamate:~$ sudo apt-get remove docker docker-engine docker.io containerd runc
@@ -389,6 +391,12 @@ andreas_faerber@docker-teslamate:~$
 Testen ob die Docker Installation erfolgreich war:
 
 ```bash
+sudo docker run hello-world
+```
+
+Ausgaben auf der Konsole:
+
+```bash
 andreas_faerber@docker-teslamate:~$ sudo docker run hello-world
 Unable to find image 'hello-world:latest' locally
 latest: Pulling from library/hello-world
@@ -437,6 +445,8 @@ sudo systemctl restart docker
 
 sudo docker ps
 ```
+
+Ausgaben auf der Konsole:
 
 ```bash
 andreas_faerber@docker-teslamate:~$ sudo apt install docker-compose
@@ -756,6 +766,8 @@ sudo docker-compose up -d
 
 ```
 
+Ausgaben auf der Konsole:
+
 ```bash
 andreas_faerber@docker-teslamate:~$ mkdir docker-teslamate
 andreas_faerber@docker-teslamate:~$ 
@@ -830,6 +842,8 @@ LETSENCRYPT_EMAIL=e.mail@adres.se
 
 Um die Datei zu speichern drückt ihr ^X (Control-x), beantwortet die Frage mit "y" (y drücken) und bei "File Name to Write: .env" drückt ihr einfach Return. Dann solltet ihr wieder auf dem Prompt in der Konsole sein:
 
+Ausgaben auf der Konsole:
+
 ```console
 andreas_faerber@docker-teslamate:~/docker-teslamate$ nano .env
 andreas_faerber@docker-teslamate:~/docker-teslamate$ 
@@ -840,6 +854,8 @@ Jetzt legen wir ein Passwort für den späteren Zugriff über den Webbrowser an:
 ```console
 htpasswd -B -c .htpasswd teslamate
 ```
+
+Ausgaben auf der Konsole:
 
 ```console
 andreas_faerber@docker-teslamate:~/docker-teslamate$ htpasswd -B -c .htpasswd teslamate
@@ -852,6 +868,12 @@ andreas_faerber@docker-teslamate:~/docker-teslamate$
 Jetzt starten wir Teslamate über Docker:
 
 ```console
+sudo docker-compose up -d
+```
+
+Ausgaben auf der Konsole:
+
+```console
 andreas_faerber@docker-teslamate:~/docker-teslamate$ sudo docker-compose up -d
 Creating network "docker-teslamate_default" with the default driver
 Creating docker-teslamate_grafana_1   ... done
@@ -862,6 +884,12 @@ andreas_faerber@docker-teslamate:~/docker-teslamate$
 ```
 
 Wenn alles gut gegangen ist, dann läuft Teslamate jetzt:
+
+```console
+sudo docker ps
+```
+
+Ausgaben auf der Konsole:
 
 ```console
 andreas_faerber@docker-teslamate:~/docker-teslamate$ sudo docker ps
