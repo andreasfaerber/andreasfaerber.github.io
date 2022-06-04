@@ -1,0 +1,23 @@
+version: '3'
+
+volumes:
+  teslamate-db:
+    driver_opts:
+      type: none
+      device: /docker-data/teslamate/teslamate-db
+      o: bind
+  teslamate-grafana-data:
+    driver_opts:
+      type: none
+      device: /docker-data/teslamate/grafana-data
+      o: bind
+  mosquitto-conf:
+    driver_opts:
+      type: none
+      device: /docker-data/teslamate/mosquitto-conf
+      o: bind
+  mosquitto-data:
+    driver_opts:
+      type: none
+      device: /docker-data/teslamate/mosquitto-data
+      o: bind
