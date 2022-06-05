@@ -845,8 +845,19 @@ Unter https://euername.duckdns.org/ (siehe oben) könnt ihr jetzt das erste Mal 
 
 ![Teslamate erster Login](/assets/images/2022-06-04-teslamate-erster-login.png)
 
-Anschließend konfiguriert ihr noch die Dashboard URL in den Einstellungen (unten bei Dashboards eintragen):
+Anschließend konfiguriert ihr noch die Dashboard URL in den Einstellungen (unten bei Dashboards eintragen, die gleiche URL wie bei Web App und ein /grafana anhängen):
 
 ![Teslamate erster Login](/assets/images/2022-06-04-teslamate-konfiguration.png)
 
-Seite neu laden, voila!
+Seite neu laden und nun sollte es oben den Menüeintrag "Dashboards" geben.
+
+# Erster Aufruf Dashboards #
+
+![Erster Grafana Login](/assets/images/2022-06-04-teslamate-grafana-login-fenster.png)
+
+Wenn ihr auf den Dashboard Link geklickt habt, dann müsst ihr euch bei Grafana anmelden. Der erste Login ist hier **admin als Benutzername und auch als Passwort**. Anschließend müsst ihr ein neues Passwort vergeben.
+
+# Fertig #
+
+Voila!
+
