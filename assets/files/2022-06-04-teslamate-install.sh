@@ -19,5 +19,6 @@ curl -o ~/docker-teslamate/docker-compose.yml https://blog.abgefaerbt.de/assets/
 curl -o ~/docker-teslamate/docker-compose.override.yml https://blog.abgefaerbt.de/assets/files/teslamate-docker-compose.override.yml
 curl -o ~/docker-teslamate/.env https://blog.abgefaerbt.de/assets/files/teslamate.env
 nano .env
+echo "Jetzt wird das Passwort für den Aufruf der Seite vergeben, Login: teslamate und Passwort das gleich vergebene"
 htpasswd -B -c .htpasswd teslamate
 sudo docker-compose up -d
