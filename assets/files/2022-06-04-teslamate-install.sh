@@ -10,8 +10,6 @@ echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.
 sudo apt update
 sudo apt -y install docker-ce docker-ce-cli containerd.io docker-compose-plugin apache2-utils docker-compose
 sudo docker run hello-world
-mkdir docker-teslamate
-cd docker-teslamate
 mkdir import
 sudo mkdir -p /docker-data/teslamate/teslamate-db
 sudo mkdir -p /docker-data/teslamate/grafana-data
