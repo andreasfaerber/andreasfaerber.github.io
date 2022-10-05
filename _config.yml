@@ -63,7 +63,8 @@ comments:
   provider: "staticman_v2"
   staticman:
     branch: "master"
-    endpoint: https://abgefaerbt-staticman.herokuapp.com/v2/entry/
+    endpoint: https://staticman.abgefaerbt.de/v2/entry/
+#    endpoint: https://abgefaerbt-staticman.herokuapp.com/v2/entry/
 
 reCaptcha:
   enabled: true
