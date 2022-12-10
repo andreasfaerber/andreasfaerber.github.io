@@ -1,0 +1,12 @@
+_id: 2cab1830-785f-11ed-a70e-015f5f15a70a
+message: >-
+  Hallo Martin, von wo möchtest du die Daten per MQTT abrufen? Von außerhalb der
+  VM wäre mit der Port Öffnung keine so gute Idee, da dann ja jeder auf den Port
+  zugreifen könnte, wenn du das nicht über die Firewall (z.B. mit statischer
+  IP-Freigabe) schützen kannst. Von innerhalb der VM sollte das gehen. Kannst du
+  per telnet auf den Port zugreifen?
+name: Andreas
+email: ed950e8b42351faa6d56046211a14375
+url: ''
+hidden: ''
+date: 1670658568
