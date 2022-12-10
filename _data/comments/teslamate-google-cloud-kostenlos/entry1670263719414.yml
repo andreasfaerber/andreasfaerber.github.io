@@ -1,0 +1,7 @@
+_id: d805dc10-74c7-11ed-a70e-015f5f15a70a
+message: "Hallo Andreas,\r\nVielen Dank für die Super Anleitung!\r\nHat prima geklappt!\r\nIch würde gerne die Daten von der Teslamate VM über MQTT abrufen, allerdings kann ich mich nicht mit dem MQTT Broker verbinden.\r\nDen Port habe ich in docker-compose.yml eingetragen 1883:1883 und ein- und ausgehend in der Google Cloud Firewall eingetragen. Vielleicht habe ich dabei auch einen Fehler gemacht.\r\nKannst du mir einen Tipp geben?\r\nViele Grüße, Martin"
+name: Martin
+email: 18a64131488498792bad7ec01311e86b
+url: ''
+hidden: ''
+date: 1670263719
