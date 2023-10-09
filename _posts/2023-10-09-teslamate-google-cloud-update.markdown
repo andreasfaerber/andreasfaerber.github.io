@@ -2,7 +2,7 @@
 title: "Teslamate: Update der Teslamate Google Cloud Installation"
 layout: single
 classes: wide
-date: 2023-10-09 22:37:22 +100
+date: 2023-10-09 21:37:22 +100
 toc: true
 categories:
   - tesla
