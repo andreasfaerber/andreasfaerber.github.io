@@ -1,0 +1,7 @@
+_id: 9224c3f0-65d0-11ee-8f57-d555a17c6644
+message: "Hi, Danke für die gute Anleitung. Hat alles funktioniert, nur habe ich zwei kleine Problemchen.\r\n1. Wie kann ich auf die aktuellste Version von Teslamate updaten? Mit dem Befehl docker compose pull im entsprechenden Verzeichnis geht es nicht.\r\n2. Ich kann über https:// nicht aufrufen, nur über http:// - Irgendwie hat das mit dem Zertifikat nicht funktioniert.\r\n\r\nDanke für Hilfe :-)"
+name: Marco
+email: 90b3a743b6f833685befacbae14e347d
+url: ''
+hidden: ''
+date: 1696765698
