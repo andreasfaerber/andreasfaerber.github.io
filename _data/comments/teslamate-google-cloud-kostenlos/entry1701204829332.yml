@@ -1,0 +1,7 @@
+_id: 3a530dc0-8e30-11ee-9222-1589e3c8ce7f
+message: "Hi Andreas, dank deiner Anleitung läuft meine Instanz bereits über ein Jahr. Allerdings ist sie sehr langsam resp. reagiert nicht, wenn man Statistiken über z.B. 1 Jahr anschauen will.\r\nDeswegen habe ich die VM nun auf e2-small gestellt (kostet natürlich mehr).\r\nAber nun habe ich beim GCP gesehen, dass man auch direkt einen Container starten könnte, ohne dass man eine VM dafür bereitstellt. Würde das ungefähr ähnlich deiner Anleitung funktionieren?\r\nVielen Dank"
+name: Simon
+email: 82441c2f8a5d8ea3c78b04366b73b77d
+url: ''
+hidden: ''
+date: 1701204829
