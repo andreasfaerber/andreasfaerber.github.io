@@ -1,0 +1,7 @@
+_id: bebcd760-8e32-11ee-9222-1589e3c8ce7f
+message: "Moin Simon, prinzipiell installiert man eine VM (virtuelle Maschine) auf der dann ein Container (per Docker) läuft. Das funktioniert natürlich prinzipiell auch dort. Allerdings ist die Anleitung dafür nicht gedacht. Der Hauptvorteil der Anleitung und VM ist, dass man auch als Anfänger relativ einfach damit umgehen kann. Das wird mit einer reinen Container Plattform schon schwieriger.\r\n\r\nKurzum: Wenn du dich mit GCP und Containern im Allgemeinen auskennst, könntest du dich daran orientieren. Sonst würde ich das eher später versuchen.. ;-)"
+name: Andreas
+email: f7f8fc6c6176706b5a2558c5182d3380
+url: ''
+hidden: ''
+date: 1701205909
