@@ -1,6 +1,6 @@
 _id: 154321f0-ab18-11ee-abe2-996a6862f279
 message: "Hallo Marc,\r\n\r\nwie hast du versucht Teslamate neu zu starten? Im docker-teslamate Verzeichnis sollte ein\r\n\r\nsudo docker-compose down\r\n\r\nund anschließend\r\n\r\nsudo docker-compose up -d\r\n\r\nasureichen für einen Neustart. Wenn das nicht hilft eventuell das System neu starten (sudo reboot) und dann prüfen, ob du Teslamate neu starten kannst / musst.\r\n\r\nWas bekommst du dort in den Logfiles? (sudo docker-compose logs --tail=200)\r\n\r\nViele Grüße\r\nAndreas"
-name: Andrea
+name: Andreas
 email: f7f8fc6c6176706b5a2558c5182d3380
 url: 'https://blog.abgefaerbt.de/'
 hidden: ''
