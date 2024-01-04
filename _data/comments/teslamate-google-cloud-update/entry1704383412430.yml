@@ -1,0 +1,7 @@
+_id: f1e97dc0-ab18-11ee-abe2-996a6862f279
+message: "Zum Thema Backup, falls du noch kein eigenes Backup angelegt hast:\r\n\r\n- Siehe https://docs.teslamate.org/docs/maintenance/backup_restore\r\n\r\nEin Beispiel-Skript solltest du mit folgendem Befehl herunterladen können:\r\n\r\ncurl -o ~/docker-teslamate/teslmate_backup.sh https://blog.abgefaerbt.de/assets/files/teslamate_backup_beispiel.sh\r\n\r\nDies dann aus dem Verzeichnis heraus mit \"sh ./teslamate_backup.sh\" aufrufen um ein Backup zu erstellen. Auf der Teslamate Seite zum Backup und Restore ist beschrieben, wie du das Backup einspielen kannst (wenn du schon eins hast).\r\n\r\nKlappt das bei dir / kommst du damit klar?\r\n\r\nViele Grüße\r\nAndreas"
+name: Andreas
+email: f7f8fc6c6176706b5a2558c5182d3380
+url: 'http://blog.abgefaerbt.de'
+hidden: ''
+date: 1704383412
