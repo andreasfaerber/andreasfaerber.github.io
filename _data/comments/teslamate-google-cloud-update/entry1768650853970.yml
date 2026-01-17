@@ -1,0 +1,7 @@
+_id: 3e1fd780-f39b-11f0-aa1e-6177df744930
+message: "Moin Zauberfee, kommst du mit der Anleitung unter https://github.com/teslamate-org/teslamate/releases/tag/v2.0.0 zurecht? Das Backup ist hier ja oben beschrieben. Wichtig ist, dass du nach dem Update der postgres Datenbank die alte Datenbank löscht (Siehe https://docs.teslamate.org/docs/maintenance/upgrading_postgres/) und dann das Backup wieder einspielst (https://docs.teslamate.org/docs/maintenance/backup_restore).\r\n\r\nHilft das weiter?"
+name: Andreas
+email: f7f8fc6c6176706b5a2558c5182d3380
+url: 'https://blog.abgefaerbt.de/'
+hidden: ''
+date: 1768650853
