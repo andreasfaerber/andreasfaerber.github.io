@@ -1,0 +1,7 @@
+_id: ed2c61a0-f399-11f0-aa1e-6177df744930
+message: "Hallo Andreas,\r\nim April letzten Jahres wurde als Breaking Chain Release die 2.0 veröffentlicht. Ich scheitere hier am Update.\r\nScheinbar wird die Datenbank in Postgres nicht korrekt entfernt, obwohl die Konsole die Rückmeldung gibt. Postgres startet dann nicht weil es eine inkompatible Datenbank findet und ich weiß nicht wieso, bzw. wo :(\r\nKannst du hier helfen?\r\nViele Grüße\r\nDie Zauberfee"
+name: Zauberfee
+email: 2719fe614182978cdfc251e67c018f01
+url: ''
+hidden: ''
+date: 1768650288
