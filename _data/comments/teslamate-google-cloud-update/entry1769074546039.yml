@@ -1,0 +1,7 @@
+_id: ba1db9f0-f775-11f0-920a-9ff0cb88ea96
+message: "Hallo Andreas, ja und nein. Für mich sieht es so aus, als ob der Befehl \"docker volume rm \"$(basename \"$PWD\")_teslamate-db\" \" die Postgres Datenbank aus \"/var/lib/postgresql/data\" löscht. Die teslamate-docker-compose.override.yml verweist aber auf ein andres Verzeichnis. Kann ich die override.yml einfach löschen?\r\nViele Grüße\r\nDie Zauberfee"
+name: Zauberfee
+email: 49c303d0886f6a33c3a5eae118cdb41d
+url: ''
+hidden: ''
+date: 1769074546
